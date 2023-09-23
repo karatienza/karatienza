@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello there 👋
+Intoducing Myself
 
-<!--
-**katakatakara/katakatakara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌷 I am Kate Andrei Atienza
+- 📚 Bachelor of Science in Information Technology Major in Business Analytics
+- 🌱 I’m currently learning PHP
+- 🦋 Skills: Article Writing, Graphic Designing
+- 💻 Programming Languages: HTML, Visual Basic, Python, CSS, C++, JavaScript
+- 📊 Database: MS Acces, MySQL, Microsoft SQL Server
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 Contact me:
+   You can chat me or email me at karatienzaa0904@gmail.com
